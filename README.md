@@ -15,7 +15,7 @@ $mvn spring-boot:run
 Run embedded Jetty:
 
 ``
-$mvn spring-boot:run
+$mvn spring-boot:run -Pjetty
 ``
 
 Test GET with payload:
